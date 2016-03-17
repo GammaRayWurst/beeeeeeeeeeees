@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=latex 2016.1.25)  17 MAR 2016 16:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=latex 2016.1.25)  17 MAR 2016 16:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -133,26 +133,16 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 91.
-
-Underfull \hbox (badness 2653) in paragraph at lines 100--106
-\OT1/cmr/m/n/12 sen-tially two stages. Dur-ing the first
- []
-
-
-Underfull \hbox (badness 1394) in paragraph at lines 100--106
-\OT1/cmr/m/n/12 ap-proached sub-jects with whom we had
- []
-
-[2]
+ [2]
 No file beeeeeeeeeeeeees.bbl.
 [3] (./beeeeeeeeeeeeees.aux) ) 
 Here is how much of TeX's memory you used:
- 2226 strings out of 493090
- 28627 string characters out of 6134868
+ 2225 strings out of 493090
+ 28616 string characters out of 6134868
  96072 words of memory out of 5000000
- 5766 multiletter control sequences out of 15000+600000
+ 5765 multiletter control sequences out of 15000+600000
  6062 words of font info for 22 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  26i,6n,25p,217b,188s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on beeeeeeeeeeeeees.dvi (3 pages, 7000 bytes).
+Output written on beeeeeeeeeeeeees.dvi (3 pages, 7608 bytes).
