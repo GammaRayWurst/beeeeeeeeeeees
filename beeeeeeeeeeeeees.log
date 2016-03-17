@@ -1,9 +1,25 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=latex 2016.1.25)  17 MAR 2016 16:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=latex 2016.1.25)  17 MAR 2016 16:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **\nonstopmode\input beeeeeeeeeeeeees.tex
 (./beeeeeeeeeeeeees.tex
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 l
+     ess\documentclass[aps,prl,preprint,groupedaddress,twocolumn]{revtex4-1}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no s in font nullfont!
 (/usr/local/texlive/texmf-local/tex/latex/revtex/revtex4-1.cls
 Document Class: revtex4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revt
 ex4/ for documentation)
@@ -81,10 +97,13 @@ Class revtex4-1 Info: RevTeX pointsize 12pt selected on input line 30.
 Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/url/url.sty
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--30
+[]
+ []
+
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/natbib/natbib.sty
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip44
 \bibsep=\skip45
@@ -137,12 +156,12 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 No file beeeeeeeeeeeeees.bbl.
 [3] (./beeeeeeeeeeeeees.aux) ) 
 Here is how much of TeX's memory you used:
- 2225 strings out of 493090
- 28616 string characters out of 6134868
- 96072 words of memory out of 5000000
- 5765 multiletter control sequences out of 15000+600000
+ 2223 strings out of 493090
+ 28592 string characters out of 6134868
+ 97072 words of memory out of 5000000
+ 5763 multiletter control sequences out of 15000+600000
  6062 words of font info for 22 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 26i,6n,25p,217b,188s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 26i,6n,25p,217b,187s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on beeeeeeeeeeeeees.dvi (3 pages, 7608 bytes).
+Output written on beeeeeeeeeeeeees.dvi (3 pages, 7624 bytes).
